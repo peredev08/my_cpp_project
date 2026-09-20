@@ -1,0 +1,16 @@
+build/
+
+*.o
+*.a
+*.so
+*.dll
+*.exe
+.cache
+
+*.log
+*.tmp
+
+.DS_Store
+Thumbs.db
+
+src_test
